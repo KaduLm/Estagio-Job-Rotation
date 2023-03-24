@@ -1,3 +1,4 @@
+#2* questão
 def fibonacci_sequence(n):
     a, b = 0, 1
     while b < n:
